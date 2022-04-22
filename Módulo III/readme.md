@@ -38,3 +38,9 @@ Nesta atividade, vamos testar os conceitos de Orientação a Objetos simulando a
  - Crie uma classe-filha chamada (ContaPoupança), que herda todos os parâmetros de (ContaBancaria)
  - Crie uma classe-filha chamada (ContaUniversitaria), que herda todos os parâmetros de (ContaBancaria).
  - Faça com que o método (saque), de (ContaUniversitaria) apenas seja capas de sacar os valores 'menores que 500 reais'.
+
+Atividade 05 - Map, Filter e Reduce
+
+ - Map: Pratique a sintaxe de multiplicação de números, uma vez utilizando o parâmetro (this) de um objeto criado por você, e depois sem ele.
+ - Filter: Filtre e retorne todos os números pares de um array
+ - Reduce: Some todos os números de um array. Crie uma função que recebe uma lista de preços e um número representando o saldo disponível. Calcule qual será o saldo final após subtrair todos os preços
